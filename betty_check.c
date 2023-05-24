@@ -8,5 +8,5 @@
 int main(void)
 {
 	printf("Good betty code");
-	return(0);
+	return (0);
 }
